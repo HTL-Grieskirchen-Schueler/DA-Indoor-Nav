@@ -1,0 +1,31 @@
+[
+  {
+    "MacAddress": "de:39:6f:70:15:a7",
+    "Id": 1,
+    "Name": "",
+    "Left": 0,
+    "Top": 2
+  },
+  {
+    "MacAddress": "de:39:6f:70:15:a8",
+    "Id": 2,
+    "Name": "",
+    "Left": 6,
+    "Top": 12
+  },
+  {
+    "MacAddress": "d4:6e:0e:d6:f5:5e",
+    "Id": 3,
+    "Name": "",
+    "Left": 14,
+    "Top": 2
+  },
+  {
+    "MacAddress": "60:e3:27:e7:5c:44",
+    "Id": 4,
+    "Name": "",
+    "Left": 0.1,
+    "Top": 2.1
+      
+  }
+]

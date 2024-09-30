@@ -1,0 +1,81 @@
+@baseUrl = https://localhost:5001
+
+
+################################################## Com
+GET {{baseUrl}}/Com/bigimg
+#####
+GET {{baseUrl}}/Com/helloworld?message=abc
+#####
+GET {{baseUrl}}/Com/img
+#####
+
+################################################## getPosition
+POST {{baseUrl}}/getPosition
+Content-type: application/json
+
+"xxx"
+#####
+
+################################################## ImageCrl
+GET {{baseUrl}}/ImageCrl/accesspoints
+#####
+GET {{baseUrl}}/ImageCrl/mapData
+#####
+GET {{baseUrl}}/ImageCrl/nodes
+#####
+POST {{baseUrl}}/ImageCrl/accesspoints
+Content-type: application/json
+
+[{
+   "id": 1,
+   "left": 1,
+   "top": 1,
+   "macAddress": "abc",
+   "distance": 1
+},
+{
+   "id": 2,
+   "left": 2,
+   "top": 2,
+   "macAddress": "def",
+   "distance": 2
+}]
+#####
+POST {{baseUrl}}/ImageCrl/base64img?base64=abc
+#####
+POST {{baseUrl}}/ImageCrl/mapData
+Content-type: application/json
+
+"abc"
+#####
+POST {{baseUrl}}/ImageCrl/nodes
+Content-type: application/json
+
+[{
+   "id": 1,
+   "left": 1,
+   "top": 1,
+   "connectedNodes": 
+   [1]
+},
+{
+   "id": 2,
+   "left": 2,
+   "top": 2,
+   "connectedNodes": 
+   [1]
+}]
+#####
+
+################################################## spf
+GET {{baseUrl}}/spf?id1=1&id2=1
+#####
+
+################################################## Test
+GET {{baseUrl}}/api/Test/TestGet
+#####
+POST {{baseUrl}}/api/Test/TestPost
+Content-type: application/json
+
+"abc"
+#####

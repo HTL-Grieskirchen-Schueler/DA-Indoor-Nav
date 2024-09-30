@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "RelativeX": 0.2,
+    "RelativeY": 0.3,
+    "StringConnectedNodes": "2,3"
+  },
+  {
+    "Id": 2,
+    "RelativeX": 0.5,
+    "RelativeY": 0.2,
+    "StringConnectedNodes": "1,4"
+  },
+  {
+    "Id": 3,
+    "RelativeX": 0.7,
+    "RelativeY": 0.8,
+    "StringConnectedNodes": "1,4,5"
+  },
+  {
+    "Id": 4,
+    "RelativeX": 0.8,
+    "RelativeY": 0.5,
+    "StringConnectedNodes": "2,3,5"
+  },
+  {
+    "Id": 5,
+    "RelativeX": 0.4,
+    "RelativeY": 0.6,
+    "StringConnectedNodes": "3,4"
+  }
+]

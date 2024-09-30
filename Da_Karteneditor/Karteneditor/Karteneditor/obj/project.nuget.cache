@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9/Dk3mxbCMUGy4QIeozhJhTCOKZqt9vBuWQI+hPdardfvcaVjHX0qdOdD0XO+1nzlkUTrBZAm5N2awuYsvwyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\Karteneditor\\Karteneditor\\Karteneditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\Michael\\.nuget\\packages\\writeablebitmapex\\1.6.8\\writeablebitmapex.1.6.8.nupkg.sha512"
+  ],
+  "logs": []
+}

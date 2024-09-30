@@ -1,0 +1,22 @@
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.deps.json
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.dll
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.pdb
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.AssemblyInfo.cs
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.dll
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\refint\ShortestPathLib.dll
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.pdb
+C:\Users\Michael\source\repos\DAServer\ShortestPathLib\obj\Debug\net8.0\ref\ShortestPathLib.dll
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.deps.json
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.dll
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\bin\Debug\net8.0\ShortestPathLib.pdb
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.AssemblyInfoInputs.cache
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.AssemblyInfo.cs
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.dll
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\refint\ShortestPathLib.dll
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ShortestPathLib.pdb
+C:\Users\Michael\Downloads\DA_FERTIG_BACKEND 1\DAServer\ShortestPathLib\obj\Debug\net8.0\ref\ShortestPathLib.dll

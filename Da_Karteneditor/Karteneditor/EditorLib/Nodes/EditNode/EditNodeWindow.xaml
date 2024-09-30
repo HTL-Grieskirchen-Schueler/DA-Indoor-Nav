@@ -1,0 +1,30 @@
+﻿<Window x:Class="EditorLib.Nodes.EditNode.EditNodeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EditorLib.Nodes.EditNode"
+        mc:Ignorable="d"
+        Title="Edit Node" Height="100" Width="300"
+        Loaded="Window_Loaded"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterScreen">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="auto"/>
+    </Grid.RowDefinitions>
+    <Grid Grid.Row="0" Name="grdPropElements">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+      </Grid.ColumnDefinitions>
+    </Grid>
+    <StackPanel Grid.Row="1" Orientation="Horizontal">
+      <Button Content="Save" Click="OnSaveClicked"/>
+      <Button Content="Cancel" Click="OnCancleClicked"/>
+    </StackPanel>
+  </Grid>
+
+</Window>
